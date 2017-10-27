@@ -1,0 +1,10 @@
+.contacts {
+    display:inline-flex;
+    list-style-type:none;
+    text-decoration:underline;
+}
+
+.contacts li {
+    padding-left: 50px;
+    padding-right:50px;
+}
